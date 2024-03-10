@@ -1,0 +1,5 @@
+__init__.py
+migrations
+__pycache__
+db.sqlite3
+.DS_Store
